@@ -5,7 +5,7 @@ Este repositorio contiene un demo realizado en JavaScript utilizando jQuery. Inc
 ## Cómo usar
 
 1. Descarga o clona este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
+2. Abre el archivo `inicio.html` en tu navegador.
 
 ## Requisitos
 
