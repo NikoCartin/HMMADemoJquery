@@ -1,15 +1,15 @@
-# HMMADemoJquery
+# HMMA jQuery Demo
 
-Este repositorio es un demo de HTML utilizando jQuery. Incluye ejemplos y funcionalidades para aprender y practicar conceptos de manipulación del DOM, manejo de eventos y funciones con jQuery.
+This repository contains an HTML and jQuery demo with practical examples of DOM manipulation, event handling, animations, and interactive web behavior.
 
-## Cómo usar
+## How to use
 
-1. Descarga o clona este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
+1. Clone or download the repository.
+2. Open `index.html` in a modern browser.
 
-## Requisitos
+## Requirements
 
-- Navegador web moderno
-- (Opcional) Servidor local para pruebas con AJAX
+- Modern web browser
+- Optional local server for testing AJAX behavior
 
 ---
